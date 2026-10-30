@@ -2736,6 +2736,13 @@
       "subtype": "walking",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6054,6 +6061,15 @@
           "distance": 2031.719970703125,
           "elevation_gain": 37.0,
           "moving_time": 1161.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "24903372547"
+          ],
+          "count": 1,
+          "distance": 7014.68994140625,
+          "elevation_gain": 75.0,
+          "moving_time": 3736.0700073242188
         }
       },
       "tennis_v2": {
@@ -6069,7 +6085,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T15:01:46.062097+00:00",
+  "generated_at": "2026-10-30T15:01:45.443059+00:00",
   "other_bucket": "OtherSports",
   "repo": "esserrge/git-sweaty",
   "source": "garmin",
