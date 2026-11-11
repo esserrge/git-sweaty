@@ -5224,5 +5224,18 @@
     "start_date_local": "2026-11-10T15:21:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 10482.9404296875,
+    "elevation_gain": 70.0,
+    "id": "25032349842",
+    "moving_time": 3424.0,
+    "name": "Stockholm - Anaerobic",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-10T15:36:12",
+    "type": "Run",
+    "year": 2026
   }
 ]
