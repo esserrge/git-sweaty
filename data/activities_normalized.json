@@ -5315,5 +5315,18 @@
     "start_date_local": "2026-11-18T17:49:37",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 10531.7099609375,
+    "elevation_gain": 95.0,
+    "id": "25140662549",
+    "moving_time": 3324.0,
+    "name": "Stockholm - Base",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-20T12:31:23",
+    "type": "Run",
+    "year": 2026
   }
 ]
