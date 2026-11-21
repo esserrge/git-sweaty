@@ -5328,5 +5328,18 @@
     "start_date_local": "2026-11-20T12:31:23",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 22425.880859375,
+    "elevation_gain": 298.0,
+    "id": "25152347521",
+    "moving_time": 7234.0,
+    "name": "Stockholm - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-21T12:54:29",
+    "type": "Run",
+    "year": 2026
   }
 ]
